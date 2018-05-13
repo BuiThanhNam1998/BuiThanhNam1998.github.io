@@ -1,0 +1,22 @@
+#footer{
+	background: #f0ad4e;
+	text-align: center;
+	height: 80px;
+	line-height: 80px;
+	margin-top: 5px; 
+	color: #FAF5F5;
+	font-size: 18px;
+}
+#collapse.collapse.navbar-collapse{
+	background: #f0ad4e;
+}
+.menu{
+	color: #FAF5F5;
+	font-weight: bold;
+	font-size: 20px;
+}
+a .navbar-brand{
+	background: white;
+	border: white;background: #f0ad4e;
+	color: orangered;
+}

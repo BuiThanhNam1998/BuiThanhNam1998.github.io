@@ -1,0 +1,22 @@
+#footer{
+	background: #f0ad4e;
+	text-align: center;
+	height: 80px;
+	line-height: 80px;
+	margin-top: 5px; 
+	color: #FAF5F5;
+	font-size: 18px;
+}
+.navbar{
+	background: #f0ad4e;
+}
+.menu{
+	color: #FAF5F5;
+	font-weight: bold;
+	font-size: 20px;
+}
+.navbar-brand{
+	background: white;
+	border: white;
+	color: orangered;
+}
